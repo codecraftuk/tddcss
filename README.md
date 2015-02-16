@@ -8,7 +8,7 @@ Based almost entirely on another repo, with a few examples added: https://github
 Getting Started
 ===============
 
-  git clone https://github.com/bjornicus/tddcss.git
+  git clone https://github.com/codecraftuk/tddcss.git
   
   npm install
   
