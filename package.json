@@ -1,0 +1,23 @@
+{
+  "name": "tddcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "dependencies": {},
+  "devDependencies": {
+    "commonjs": "^0.0.1",
+    "expect.js": "^0.3.1",
+    "karma": "^0.12.24",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-commonjs": "^0.0.12",
+    "karma-mocha": "^0.1.9",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "mocha": "^1.21.5",
+    "quixote": "^0.5.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
